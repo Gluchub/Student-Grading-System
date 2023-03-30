@@ -1,0 +1,2 @@
+Id Name English Maths Science History Avg_marks
+studentID studentname 12 99 85 48 32 45 53.5
